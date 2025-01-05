@@ -1,0 +1,6 @@
+HOST=localhost
+PORT=27017
+USERNAME=
+DBPASS=
+SOURCE=
+CLIENT=mongodb://some:some@localhost:27017/some
