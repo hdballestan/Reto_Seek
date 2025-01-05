@@ -1,4 +1,7 @@
 # Reto_Seek
+
+Por favor usar como usuario de prueba 'test' y como contraseña 't18$V3Y9]lE)' con este pueden obtener el token de autenticación en el primer endpoint.
+
 ## Biblioteca API Backend
 
 Este es un backend para una aplicación de gestión de libros, desarrollada utilizando Django Rest Framework (DRF) y MongoDB como base de datos. La API permite realizar operaciones CRUD sobre los libros y obtener información detallada, incluyendo operaciones de agregación con MongoDB para obtener estadísticas sobre los libros.
