@@ -1,12 +1,11 @@
 from copy import deepcopy
 
-# Pipeline de agregación para calcular el precio promedio
 BASE_PIPELINE = [
     {
         "$match": {
             "published_date": {
-                "$gte": None,  # Se rellenará dinámicamente
-                "$lt": None   # Se rellenará dinámicamente
+                "$gte": None,  
+                "$lt": None  
             }
         }
     },
